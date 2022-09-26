@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background: url(https://i.pinimg.com/564x/fa/b2/46/fab246d26cf67ab98164191e9ead0344.jpg);
+}
+#Menu ul{ 
+    list-style-type: none;
+    background-color: paleturquoise;
+    margin: 0;
+    text-align: center;
+}
+#Menu ul li{
+    color: antiquewhite;
+    display: inline-table;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+}
+#Menu ul li a{
+    color: black;
+    text-decoration: none;
+}
+#Menu ul li a:hover {
+background-color: white;
+color: red;
+}
+.head{
+    color: white;
+    text-align: center;
+    
+}
+p{
+    font-size: 20px;
+}
+img{
+    width: 200px;
+    height: 200px;
+   clip-path: circle(100px at 50% 50%); 
+}
+.PhanThan{
+    font-size: 25px;
+    text-align: center;
+} 
+.PhanCuoi{
+    color: aliceblue;
+    font-size: 20px;
+    margin: 100px 0 0 30px;
+}
+#anh{
+ background-color: paleturquoise ;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 70px;
+    font-weight: 100;
+    font-family: monospace;
+}
+
+
+
